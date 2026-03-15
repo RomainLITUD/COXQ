@@ -1,0 +1,17 @@
+MANIFEST.in
+setup.cfg
+setup.py
+contrib_policy/__init__.py
+contrib_policy/filter_obs.py
+contrib_policy/format_action.py
+contrib_policy/frame_stack.py
+contrib_policy/layers.py
+contrib_policy/make_dict.py
+contrib_policy/network.py
+contrib_policy/policy.py
+smarts_agent_ppo.egg-info/PKG-INFO
+smarts_agent_ppo.egg-info/SOURCES.txt
+smarts_agent_ppo.egg-info/dependency_links.txt
+smarts_agent_ppo.egg-info/requires.txt
+smarts_agent_ppo.egg-info/top_level.txt
+smarts_agent_ppo.egg-info/zip-safe

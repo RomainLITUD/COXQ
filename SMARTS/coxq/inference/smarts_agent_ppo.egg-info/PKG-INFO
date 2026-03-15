@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: smarts-agent-ppo
+Version: 0.1.0
+Summary: SMARTS zoo agent.
+Home-page: https://github.com/huawei-noah/SMARTS
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: ==3.8.*
+Description-Content-Type: text/markdown
+
+Trained Proximal Policy Optimization agent. See [SMARTS](https://github.com/huawei-noah/SMARTS).
