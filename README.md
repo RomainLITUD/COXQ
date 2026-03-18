@@ -2,6 +2,8 @@
 
 This is the code for the ICLR 2026 poster: *Off-policy safe reinforcement learning with cost-constrained optimistic exploration*.
 
+Authors: *Guopeng Li, Matthijs T.J. Spaan, Julian F.P. Kooij*
+
 The experimental section contains three benchmarks. Please go to each repository and README.md file for more details. 
 
 Cite:
