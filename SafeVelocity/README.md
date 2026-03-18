@@ -12,6 +12,6 @@ We adopted the `safe velocity` tasks from `Safety-Gymnasium` ([here](https://git
 ## Training
 
 Run the following command to train across 10 seeds:
-'''
-python -u saferl.py --env=humanoid --env_steps=3072000 --
-'''
+```
+python -u saferl.py --env=humanoid --env_steps=3072000 --save_file=coxq
+```
