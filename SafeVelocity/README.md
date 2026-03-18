@@ -15,3 +15,7 @@ Run the following command to train across 10 seeds:
 ```
 python -u saferl.py --env=humanoid --env_steps=3072000 --save_file=coxq
 ```
+
+## Visualization
+
+An easy way of tracking the curves during training or visualizing the final policy is to use the notebook provided by Brax: [here](https://github.com/google/brax/tree/main/notebooks)
